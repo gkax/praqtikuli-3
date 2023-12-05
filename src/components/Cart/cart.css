@@ -1,0 +1,13 @@
+#cart {
+  position: absolute;
+  right: 50px;
+  top: 0px;
+  font-size: 20px;
+}
+
+.cart-total {
+  position: fixed; 
+  bottom: 40px;
+  left: 20px;
+  
+}
